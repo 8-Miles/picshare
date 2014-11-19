@@ -26,6 +26,7 @@ local.properties
 .classpath
 .project
 .gitmodules
+.checkstyle
 
 # External tool builders
 # .externalToolBuilders/
@@ -51,5 +52,6 @@ local.properties
 out
 
 *.xml
+!checkstyle.xml
 
 *.iml
