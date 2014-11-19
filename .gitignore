@@ -26,6 +26,7 @@ local.properties
 .classpath
 .project
 .gitmodules
+.checkstyle
 
 # External tool builders
 # .externalToolBuilders/
