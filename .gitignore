@@ -54,4 +54,7 @@ out
 *.xml
 !checkstyle.xml
 
+#Picshare data files
+*.data
+
 *.iml
